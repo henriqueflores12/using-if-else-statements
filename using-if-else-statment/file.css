@@ -1,0 +1,91 @@
+body {
+  background-image: url(https://vignette.wikia.nocookie.net/superman/images/b/b1/Superman_Action_976_Gary_Frank.png/revision/latest/scale-to-width-down/340?cb=20170501140424);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  width: 100%;
+  height: 100%;
+}
+#answer {
+  border: 3px solid black;
+  width: 80%;
+  height: 150px;
+  display: grid;
+  justify-content: center;
+  font-size: 30mm;
+  background-color: gold;
+}
+#answer2 {
+  border: 3px solid black;
+  width: 80%;
+  height: 150px;
+  display: grid;
+  justify-content: center;
+  font-size: 30mm;
+  background-color: blue;
+}
+#answer3 {
+  border: 3px solid black;
+  width: 80%;
+  height: 150px;
+  display: grid;
+  justify-content: center;
+  font-size: 30mm;
+  background-color: red;
+}
+#answer4 {
+  border: 3px solid black;
+  width: 80%;
+  height: 150px;
+  display: grid;
+  justify-content: center;
+  font-size: 30mm;
+  background-color: skyblue;
+}
+#answer5 {
+  border: 3px solid black;
+  width: 80%;
+  height: 150px;
+  display: grid;
+  justify-content: center;
+  font-size: 30mm;
+  background-color: darkmagenta;
+}
+#answer6 {
+  border: 3px solid black;
+  width: 80%;
+  height: 150px;
+  display: grid;
+  justify-content: center;
+  font-size: 30mm;
+  background-color: violet;
+}
+#answer7 {
+  border: 3px solid black;
+  width: 80%;
+  height: 150px;
+  display: grid;
+  justify-content: center;
+  font-size: 30mm;
+  background-color: aqua;
+}
+#answer:hover {
+  color: red;
+}
+#answer2:hover {
+  color: darkgreen;
+}
+#answer3:hover {
+  color: orange;
+}
+#answer4:hover {
+  color: gold;
+}
+#answer5:hover {
+  color: green;
+}
+#answer6:hover {
+  color: yellow;
+}
+#answer7:hover {
+  color: brown;
+}
